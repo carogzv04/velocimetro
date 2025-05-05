@@ -5,7 +5,7 @@
 
 - [@carogzv04](https://github.com/carogzv04) – Carolina González
 - [@sabbinat](https://github.com/sabbinat) – Natalie Fernández
-- [@nikila](https://github.com/nikila) – Nicolás Lara
+- [@niikila](https://github.com/niikila) – Nicolás Lara
 
 Este proyecto Flutter es un **velocímetro y odómetro** desarrollado en equipo, que utiliza el **GPS del dispositivo móvil** para mostrar en tiempo real:
 
